@@ -8,3 +8,4 @@ emoji
 google-api-python-client
 kiwipiepy
 scikit-learn
+requests
