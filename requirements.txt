@@ -1,1 +1,10 @@
-
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+wordcloud
+emoji
+google-api-python-client
+kiwipiepy
+scikit-learn
